@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/github/stars/Olympus-Interactive1?style=flat-square&color=yellow&label=Total%20Stars" alt="Total stars" />
 </p>
 
+<p align="center">
+  <img src="assets/olympus.gif" alt="Olympus Interactive" width="600" />
+</p>
+
 ---
 
 ### 🚀 About Me
