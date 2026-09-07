@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Olympus-Interactive1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Olympus+Interactive;VibeCoding+Free+Sources+%F0%9F%A5%87;Building+AI-powered+tools+%26+games;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Olympus+Interactive;Open-Source+Software+Studio;Building+AI-powered+tools+%26+games;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
   <b>Thanks for visiting! ⭐ Star a repo if you like what you see.</b><br />
-  <i>Free sources, built with vibes. 🥇</i>
+  <i>Open source, crafted with passion.</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
